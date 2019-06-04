@@ -1,0 +1,17 @@
+name;normal;id;content
+0 - 14;30;2448131365166;Laboratório de ensino
+0 - 49;40;2448131365182;Laboratório de ensino
+ 1 - 12;24;2448131365205;Laboratório de ensino
+ 1 - 15;30;2448131365220;Laboratório de ensino
+ 1 - 17;30;2448131365221;Laboratório de ensino
+ 1 - 19;30;2448131365222;Laboratório de ensino
+ 1 - 26;24;2448131365226;Laboratório de ensino
+ 1 - 27;30;2448131365227;Laboratório de ensino
+ 1 - 28;24;2448131365228;Laboratório de ensino
+ 1 - 29;30;2448131365229;Laboratório de ensino
+ 1 - 30;30;2448131365230;Laboratório de ensino
+ 1 - 31;30;2448131365231;Laboratório de ensino
+1 - 60;24;2448131373040;Laboratório de ensino
+1 - 62;24;2448131373041;Laboratório de ensino
+1 - 64;27;2448131373042;Laboratório de ensino
+ 1 - 75;24;2448131365299;Laboratório de ensino

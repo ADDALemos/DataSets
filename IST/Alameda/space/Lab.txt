@@ -1,0 +1,26 @@
+name;normal;id;content
+E .O;18;2448131364444;Laboratório de ensino
+LAB 10;20;2448131363687;Laboratório de ensino
+LAB 11;44;2448131363683;Laboratório de ensino
+LAB 13;20;2448131363692;Laboratório de ensino
+LAB 14;40;2448131363690;Laboratório de ensino
+LAB 6;18;2448131363680;Laboratório de ensino
+LAB 7;18;2448131363682;Laboratório de ensino
+LAB 8;20;2448131363686;Laboratório de ensino
+LB - Labº Bio-Engenharia;24;2448131362799;Laboratório de ensino
+LCB Labº de Ciências Biológicas;24;2448131362770;Laboratório de ensino
+LER Labº Engª das Reacções;18;2448131363351;Laboratório de ensino
+L.F.E.B.;18;2448131363405;Laboratório de ensino
+LFE I;36;2448131362264;Laboratório de ensino
+LFE II;36;2448131362269;Laboratório de ensino
+LQA Labº Química Analítica;30;2448131363264;Laboratório de ensino
+LQF Labº Química Física;30;2448131363254;Laboratório de ensino
+LQI Labº Química Inorgânica;22;2448131363252;Laboratório de ensino
+LQO Labº Quím. Orgânica;30;2448131363297;Laboratório de ensino
+Lab Geologia/Sala de Aula;24;2448131363716;Laboratório de ensino
+Lab.º Tecnologia Química;30;2448131363325;Laboratório de ensino
+Lab. Topografia;30;2448131361611;Laboratório de ensino
+M.O.;18;2448131364464;Laboratório de ensino
+T .E .M;18;2448131363411;Laboratório de ensino
+V01.16;40;2448131361616;Laboratório de ensino
+V01.18;42;2448131361618;Laboratório de ensino
