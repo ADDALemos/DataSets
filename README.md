@@ -26,9 +26,10 @@ This repository contains a collection of data sets from different scheduling pro
 * Train Unit Shunting Problem (Danish State Railways) [Link](http://www.ms.man.dtu.dk/research/instances)	Papers [[1]](https://www.sciencedirect.com/science/article/abs/pii/S0377221717302990)
 * Considering passenger and operator inconvenience in the scheduling of large railway projects [Link](http://www.ms.man.dtu.dk/research/instances)	Papers [[1]](https://findit.dtu.dk/en/catalog/2442885077)
 
-## Plane
+## Airline Planning 
+* AIRLINE CREW SCHEDULING (North-American airline and Random generator) [Link](https://www.gerad.ca/en/papers/G-2014-22) Paper [[1](https://link.springer.com/article/10.1007%2Fs13676-015-0080-x)]
 * https://openflights.org/data.html (Timetables TBA)
-* https://github.com/RAZERZ/PullFlightData (scripts)
+* https://github.com/RAZERZ/PullFlightData (scripts to download real flight data)
 
 ## Others
 * Liner shipping	[Link](http://www.ms.man.dtu.dk/research/instances)	Papers [[1]](https://www.sciencedirect.com/science/article/pii/S1366554514001665?via%3Dihub)
