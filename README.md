@@ -38,3 +38,5 @@ This repository contains a collection of data sets from different scheduling pro
 * Dynamic Patient Admission Scheduling Problem Solutions	[Link](http://www.ms.man.dtu.dk/research/instances)
 * Nurse & Retail & employee [Link](http://www.schedulingbenchmarks.org/)
 * Metro [Link](https://ckan.publishing.service.gov.uk/dataset?q=Translink+Metro+&sort=score+desc%2C+metadata_modified+desc)
+* https://www.hsl.fi/en/opendata
+* https://developers.google.com/transit/gtfs/
