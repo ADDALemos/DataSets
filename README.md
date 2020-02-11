@@ -30,8 +30,11 @@ This repository contains a collection of data sets from different scheduling pro
 * AIRLINE CREW SCHEDULING (North-American airline and Random generator) [Link](https://www.gerad.ca/en/papers/G-2014-22) Paper [[1](https://link.springer.com/article/10.1007%2Fs13676-015-0080-x)]
 * https://openflights.org/data.html (Timetables TBA)
 * https://github.com/RAZERZ/PullFlightData (scripts to download real flight data)
+* https://www.sciencedirect.com/science/article/abs/pii/S0305054820300095
 
 ## Others
+* Robust Facility Location Under Disruptions [Link](https://sites.google.com/view/chengchun/instances) [Paper](https://www.gerad.ca/en/papers/G-2018-91/view)
 * Liner shipping	[Link](http://www.ms.man.dtu.dk/research/instances)	Papers [[1]](https://www.sciencedirect.com/science/article/pii/S1366554514001665?via%3Dihub)
 * Dynamic Patient Admission Scheduling Problem Solutions	[Link](http://www.ms.man.dtu.dk/research/instances)
 * Nurse & Retail & employee [Link](http://www.schedulingbenchmarks.org/)
+* Metro [Link](https://ckan.publishing.service.gov.uk/dataset?q=Translink+Metro+&sort=score+desc%2C+metadata_modified+desc)
