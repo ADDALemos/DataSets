@@ -41,3 +41,4 @@ This repository contains a collection of data sets from different scheduling pro
 * https://www.hsl.fi/en/opendata
 * https://developers.google.com/transit/gtfs/
 * http://web.mit.edu/airlinedata/www/Revenue&Related.html
+* The Torpedo Scheduling Problem (http://cp2016.a4cp.org/program/acp-challenge/). Intances and solutions (https://github.com/AdGold/TorpedoSchedulingInstances)
