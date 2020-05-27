@@ -42,3 +42,6 @@ This repository contains a collection of data sets from different scheduling pro
 * https://developers.google.com/transit/gtfs/
 * http://web.mit.edu/airlinedata/www/Revenue&Related.html
 * The Torpedo Scheduling Problem (http://cp2016.a4cp.org/program/acp-challenge/). Intances and solutions (https://github.com/AdGold/TorpedoSchedulingInstances)
+* MatSIM https://matsim.org/open-scenario-data
+* Unofficial Deutsche Bahn Fernverkehr https://svn.vsp.tu-berlin.de/repos/public-svn/matsim/scenarios/countries/de/germany/original_data/gtfs/README.md
+* Train disruption https://www.rijdendetreinen.nl/en/disruptions
