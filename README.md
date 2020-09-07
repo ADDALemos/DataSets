@@ -12,6 +12,7 @@ This repository contains a collection of data sets from different scheduling pro
 * University of Toronto Benchmark Data [Link](http://www.cs.nott.ac.uk/~pszrq/data.htm)
 * University of Nottingham Benchmark Data [Link](http://www.cs.nott.ac.uk/~pszrq/data.htm)
 * University of Melbourne Benchmark Data [Link](http://www.cs.nott.ac.uk/~pszrq/data.htm)
+* https://github.com/begumgenc/ucc-et
 
 ## High School Timetabling
 * ITC-2007      [Link](http://www.cs.qub.ac.uk/itc2007/)
