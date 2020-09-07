@@ -6,6 +6,8 @@ This repository contains a collection of data sets from different scheduling pro
 * ITC-2019	[Link](https://www.itc2019.org/)	
 * IST		[Link](https://github.com/ADDALemos/DataSets/tree/master/IST)	Selected Papers[[1]](https://www.sciencedirect.com/science/article/pii/S2214716018301696?via%3Dihub)
 * ITC-2007	[Link](http://www.cs.qub.ac.uk/itc2007/)	Selected Papers[[1]](https://www.sciencedirect.com/science/article/pii/S0377221719300451)
+* Balanced Academic Curriculum Problem
+ http://www.csplib.org/Problems/prob030/
 
 ## Examination Timetabling
 * ITC-2007      [Link](http://www.cs.qub.ac.uk/itc2007/)    
