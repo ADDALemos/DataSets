@@ -36,6 +36,7 @@ This repository contains a collection of data sets from different scheduling pro
 * https://openflights.org/data.html (Timetables TBA)
 * https://github.com/RAZERZ/PullFlightData (scripts to download real flight data)
 * https://www.sciencedirect.com/science/article/abs/pii/S0305054820300095
+* https://github.com/prosysscience/Aircraft_Scheduling ASP
 
 ## Others
 * Robust Facility Location Under Disruptions [Link](https://sites.google.com/view/chengchun/instances) [Paper](https://www.gerad.ca/en/papers/G-2018-91/view)
