@@ -24,6 +24,7 @@ This repository contains a collection of data sets from different scheduling pro
 * INRC-II	[Link](http://mobiz.vives.be/inrc2/?page_id=20)
 
 ## Train
+* https://opentransportdata.swiss/de/
 * PublicTransportNetworks https://github.com/FOR2083/PublicTransportNetworks
 * Train Schedule Optimisation Challenge	[Link](https://www.crowdai.org/challenges/train-schedule-optimisation-challenge) Selected Papers[[1]](https://link.springer.com/chapter/10.1007/978-3-030-20528-7_1)
 * CASPT2015	[Link](http://archive.researchdata.leeds.ac.uk/9/) Papers[[1]](https://link.springer.com/article/10.1007/s12469-016-0138-7)
